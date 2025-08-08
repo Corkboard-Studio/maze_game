@@ -21,4 +21,4 @@ This project was made possible by the excellent and easy-to-follow tutorial seri
 
 ---
 
-To follow the complete, day-by-day devlog for this project and the entire Corkboard Studio journey, please visit the **[main page on itch.io](https://corkboardstudio.itch.io/))**.
+To follow the complete, day-by-day devlog for this project and the entire Corkboard Studio journey, please visit the **[main page on itch.io](https://corkboardstudio.itch.io/)**.
